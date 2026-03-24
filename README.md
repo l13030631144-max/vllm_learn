@@ -85,3 +85,5 @@ python vllm_learn3.py
 - **第 3 阶段**：动手实践，每个练习都跑一遍
 - **第 4 阶段**：按需学习，用到哪个学哪个
 - **第 5 阶段**：有余力再深入，不强求
+
+## 模型获取从魔搭社区官网获取==https://www.modelscope.cn/models/Qwen/Qwen2.5-0.5B-Instruct
